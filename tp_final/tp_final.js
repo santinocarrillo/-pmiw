@@ -1,3 +1,4 @@
+https://www.youtube.com/watch?v=MLudiudB6yo
 let pantallaActual = 0;//pantalla de inicio con animacion
 const TOTAL_PANTALLAS = 25;//numero total de pantallas
 
